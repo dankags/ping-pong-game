@@ -1,0 +1,22 @@
+﻿  Game.cpp
+C:\Users\DanKags\source\repos\sfmlExample\sfmlExample\Game.cpp(78,16): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DanKags\source\repos\sfmlExample\sfmlExample\Game.cpp(86,16): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DanKags\source\repos\sfmlExample\sfmlExample\Game.cpp(97,17): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\DanKags\source\repos\sfmlExample\sfmlExample\Game.cpp(104,17): warning C4305: '-=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  sfmlExample.vcxproj -> C:\Users\DanKags\source\repos\sfmlExample\Debug\sfmlExample.exe
